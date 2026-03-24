@@ -1,0 +1,6 @@
+watch_dir: "./demo_data/logs"
+archive_dir: "./archive"
+days_threshold: 30
+compress: true
+report_endpoint: ""  # jätke tühjaks, kui ei kasuta
+log_level: INFO

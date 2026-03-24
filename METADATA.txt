@@ -1,0 +1,13 @@
+### METADATA.txt (kohustuslik mall — tudeng täidab)
+```text
+# METADATA — kohustuslik
+Author: <Täisnimi>
+StudentID: <Uni-ID>
+Email: <email>
+Assignment: P1  # või PS1 / B1 jne
+RepoCommit: <commit-hash, mida esitamisel kasutati>
+Version: 0.1
+AI_assistance: (jah/ei)
+AI_model: (kui jah, kirjuta mudel ja prompti kokkuvõte)
+Created: YYYY-MM-DD
+HowToRun: python src/__main__.py --config config.example.yaml --dry-run
