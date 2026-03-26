@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Alice",
+    "location": "Tallinn"
+  },
+  {
+    "name": "Bob",
+    "location": "Tartu"
+  },
+  {
+    "name": "Charlie",
+    "location": "Tallinn"
+  },
+  {
+    "name": "David",
+    "location": "Pärnu"
+  },
+  {
+    "name": "Eve",
+    "location": "Tartu"
+  },
+  {
+    "name": "Frank",
+    "location": "Tallinn"
+  }
+]
