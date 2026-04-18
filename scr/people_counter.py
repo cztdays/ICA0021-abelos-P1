@@ -9,6 +9,8 @@ def count_people_by_location(filename: str) -> Dict[str, int]:
     location_count = {}
     for person in people:
         location = person.get('location')
+        if isinstance(location, str):
+            location = location.strip()
         if location:
             location_count[location] = location_count.get(location, 0) + 1
     return location_count
